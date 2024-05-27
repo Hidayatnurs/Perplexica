@@ -19,6 +19,9 @@
 - [Contribution](#contribution)
 - [Help and Support](#help-and-support)
 
+# Perplexica
+Perplexica adalah mesin pencari yang didukung oleh AI yang dirancang sebagai alternatif sumber terbuka untuk Perplexity AI.
+
 ## Overview
 
 Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
